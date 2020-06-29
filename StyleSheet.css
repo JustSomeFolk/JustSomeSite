@@ -1,17 +1,18 @@
 
 body{
 	background-color: #d2b48c;
+	text-align: center;
 }
 
 /*Navigation panel color */
 .Topnavigation {
-		background-color: #3b7548;
+		background-color: #eed1ff;
 		overflow:hidden;
+		
 }
 /* Link decoration inside navigation panel */
 -Topnavigation a {
 	float: left;
-	color: #3b7548;
 	text-align: center;
 	padding: 14px 16px;
 	font-size: 17px;
@@ -19,7 +20,7 @@ body{
 	
 /*link color change on hover */
 .Topnavigation a:hover {
-		background-color: #ddd;
+		background-color: #b043f0;
 		color: black;
 }
 
