@@ -11,20 +11,13 @@ body{
 
 }
 
-/*styling the links/text in the navbar*/
-.topnav a {
-	font-size: 20 px;
-	text-decoration: none;
-	paddig: 15 px, 15 px;
-	text-aling: center;
-}
 
 /* Link decoration inside navigation panel */
 -Topnavigation a {
 	float: left;
 	text-align: center;
-	padding: 14px 16px;
-	font-size: 17px;
+	padding: 20px 20px;
+	font-size: 20px;
 }
 
 /*link color change on hover */
