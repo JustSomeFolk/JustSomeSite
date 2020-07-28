@@ -1,8 +1,7 @@
 
 body{
-	background-color: #2A293E;
+	background-color: #343148;
 	text-align: center;
-	text-decoration-color: #577284;
 }
 
 /* adding a costume font */
@@ -15,7 +14,7 @@ body{
 /*Navigation panel color */
 .Topnavigation {
 	border-style: groove;
-	background-color: #2A4B7C;
+	background-color: #2A293E;
 	overflow:hidden;
 }
 
@@ -41,5 +40,5 @@ h1{
 }
 
 p{
-	color: black;
+	color:#577284;
 }
