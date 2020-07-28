@@ -4,6 +4,13 @@ body{
 	text-align: center;
 }
 
+/* adding a costume font */
+@font-nordic-navbar {
+  font-family: nordicNavbar;
+  src: url(Fonts/Norse-KaWI.otf);
+  font-weight: bold;
+}
+
 /*Navigation panel color */
 .Topnavigation {
 		background-color: #eed1ff;
@@ -18,8 +25,8 @@ body{
 	text-align: center;
 	padding: 15px 15px;
 	padding-right: 5px;
-	font-size: 20px;
-	text-decoration: none;
+	font-size: 25px;
+	text-decoration: nordicNavbar;
 }
 
 /*link color change on hover */
