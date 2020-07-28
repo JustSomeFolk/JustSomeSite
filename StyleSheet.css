@@ -1,6 +1,6 @@
 
 body{
-	background-color: #343148;
+	background-color: #434C5E;
 	text-align: center;
 }
 
@@ -14,7 +14,7 @@ body{
 /*Navigation panel color */
 .Topnavigation {
 	border-style: groove;
-	background-color: #2A293E;
+	background-color: #2E3440;
 	overflow:hidden;
 }
 
@@ -26,19 +26,20 @@ body{
 	padding: 15px 15px;
 	padding-right: 5px;
 	font-size: 25px;
+	color: #D8DEE9;
 	font-family: nordicNavbar, times, serif;
 }
 
 /*link color change on hover */
 .Topnavigation a:hover {
-	background-color: #b043f0;
+	background-color: #5E81AC;
 	color: black;
 }
 
 h1{
-	color: blue;
+	color: #D8DEE9;
 }
 
 p{
-	color:#577284;
+	color:#E5E9F0;
 }
