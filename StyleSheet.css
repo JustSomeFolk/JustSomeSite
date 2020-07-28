@@ -14,9 +14,9 @@ body{
 
 /* Link decoration inside navigation panel */
 .Topnavigation a {
-	float: left;
+	float: center;
 	text-align: center;
-	padding: 20px 20px;
+	padding: 15px 15px;
 	padding-right: 5px;
 	font-size: 20px;
 	text-decoration: none;
