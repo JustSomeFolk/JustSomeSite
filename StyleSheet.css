@@ -1,8 +1,8 @@
 
 body{
-	background-color: black;
+	background-color: #2A293E;
 	text-align: center;
-	text-decoration-color: white;
+	text-decoration-color: #577284;
 }
 
 /* adding a costume font */
@@ -15,7 +15,7 @@ body{
 /*Navigation panel color */
 .Topnavigation {
 	border-style: groove;
-	background-color: #eed1ff;
+	background-color: #2A4B7C;
 	overflow:hidden;
 }
 
