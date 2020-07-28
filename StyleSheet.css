@@ -13,7 +13,7 @@ body{
 
 
 /* Link decoration inside navigation panel */
--Topnavigation a {
+.Topnavigation a {
 	float: left;
 	text-align: center;
 	padding: 100px 100px;
