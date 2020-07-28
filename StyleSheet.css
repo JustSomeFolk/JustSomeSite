@@ -1,7 +1,8 @@
 
 body{
-	background-color: #d2b48c;
+	background-color: black;
 	text-align: center;
+	text-decoration-color: white;
 }
 
 /* adding a costume font */
@@ -31,8 +32,8 @@ body{
 
 /*link color change on hover */
 .Topnavigation a:hover {
-		background-color: #b043f0;
-		color: black;
+	background-color: #b043f0;
+	color: black;
 }
 
 h1{
