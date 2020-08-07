@@ -2,7 +2,8 @@
 /*for color scheme info go to https://www.nordtheme.com/ */
 
 body{
-	background-color: #434C5E;
+	background-image: linear-gradient(#3B4252, #434C5E);
+	/* background-color: #434C5E; */
 	text-align: center;
 }
 
