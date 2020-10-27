@@ -63,11 +63,6 @@ p{
 	width: 180px;
 }
 
-/*review site picture galary */
-.review_pictures:hover {
-	border: 1px solid #000000;
-}
-
 
 /* review picture description */
 .review_desc {
