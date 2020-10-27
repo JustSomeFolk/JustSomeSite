@@ -7,7 +7,7 @@ body{
 	text-align: center;
 }
 
-/* adding a costume font */
+/* adding a custom font */
 @font-nordic-navbar {
   font-family: nordicNavbar;
   src: url(Fonts/Norse-KaWI.otf);
@@ -46,3 +46,34 @@ h1{
 p{
 	color:#E5E9F0;
 }
+
+/*news boxes */
+.Newsbox {
+	display: inline-block;
+	background-color: #2E3440;
+	Width: 60%;
+	padding: 20px;
+}
+
+/*review site picture galary */
+.review_pictures {
+	margin: 5px;
+	border: 1px solid;
+	float: center;
+	width: 180px;
+}	
+
+/*review site picture galary */
+.review_pictures:hover {
+	border: 1px solid #000000;
+}	
+	
+
+/* review picture description */
+.review_desc {
+		padding :15px;
+		text-align: center;
+}	
+
+	
+
